@@ -1,0 +1,7 @@
+Vasarhely 10 30
+Peterlaka 40 50
+Szaszregen 100 10
+Petele 15 55
+Marosfalva 40 5
+Beszterce 100 12
+Beresztelke 25 11
